@@ -1,0 +1,68 @@
+[
+  {
+    "_id": "1",
+    "address": "123 Main St, Cityville",
+    "title": "Cozy Cabin Retreat",
+    "price": 100,
+    "photos": [
+      "https://picsum.photos/400/300?random=1",
+      "https://picsum.photos/400/300?random=2",
+      "https://picsum.photos/400/300?random=3"
+    ]
+  },
+  {
+    "_id": "2",
+    "address": "456 Elm St, Townsville",
+    "title": "Luxurious Beach House",
+    "price": 200,
+    "photos": [
+      "https://picsum.photos/400/300?random=4",
+      "https://picsum.photos/400/300?random=5",
+      "https://picsum.photos/400/300?random=6"
+    ]
+  },
+  {
+    "_id": "3",
+    "address": "789 Oak St, Villageland",
+    "title": "Mountain View Chalet",
+    "price": 150,
+    "photos": [
+      "https://picsum.photos/400/300?random=7",
+      "https://picsum.photos/400/300?random=8",
+      "https://picsum.photos/400/300?random=9"
+    ]
+  },
+  {
+    "_id": "3",
+    "address": "789 Oak St, Villageland",
+    "title": "Mountain View Chalet",
+    "price": 150,
+    "photos": [
+      "https://picsum.photos/400/300?random=70",
+      "https://picsum.photos/400/300?random=38",
+      "https://picsum.photos/400/300?random=09"
+    ]
+  },
+  {
+    "_id": "3",
+    "address": "789 Oak St, Villageland",
+    "title": "Mountain View Chalet",
+    "price": 150,
+    "photos": [
+      "https://picsum.photos/400/300?random=57",
+      "https://picsum.photos/400/300?random=78",
+      "https://picsum.photos/400/300?random=69"
+    ]
+  },
+  {
+    "_id": "3",
+    "address": "789 Oak St, Villageland",
+    "title": "Mountain View Chalet",
+    "price": 150,
+    "photos": [
+      "https://picsum.photos/400/300?random=17",
+      "https://picsum.photos/400/300?random=38",
+      "https://picsum.photos/400/300?random=19"
+    ]
+  }
+]
